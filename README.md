@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jenny3094
 - 👀 I’m interested in JavaScript,APIs, Algorithms,React,Python etc
-- 🌱 I’m currently learning Git and JavaScript
+- 🌱 I’m currently learning Git,Javascript and Devops.
 - 💞️ I’m looking to collaborate on challenging projects.
 - 📫 How to reach me is through my email address which is chinazor.akah@gmail.com
 
